@@ -1,0 +1,6 @@
+,MODEL,PARAMETERS,FITNESS,PRECISION,GENERALIZATION,SEMPLICITY,LOG
+2,IMf,[0.0],92.24,0.92,0.96,0.87,PrepayedTravelCost
+14,HEU,"[0.1, 1, 1]",100.0,0.99,0.98,0.85,DomesticDeclaration
+14,HEU,"[0.1, 1, 1]",100.0,0.99,0.97,0.85,RequestForPay
+17,HEU,"[0.1, 1, 200]",94.68,0.92,0.97,0.84,InternationalDeclaration
+17,HEU,"[0.1, 1, 200]",92.22,0.89,0.97,0.83,PermitLog
